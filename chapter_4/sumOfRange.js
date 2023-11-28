@@ -32,3 +32,6 @@ function rangeRedux(start, end, step = 1) {
 }
 
 // This feels very repetitive, but my head's not in it tonight.
+
+// A couple of days later, I had the idea to try to make the condition (i <= end) a variable, but that failed utterly.
+// Frustrating.  I feel like there must be a better way but I don't know what it is.
